@@ -1,4 +1,4 @@
-
+这是不可能的。
 
 Everyone knows the problem of P = NP. P represents a simple solution to the problem and NP represents a complex solution to the file.
 Don't we need to prove that it's impossible? 
